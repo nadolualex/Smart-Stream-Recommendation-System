@@ -8,7 +8,7 @@ Welcome to the Smart Stream Recommendation System, a Java-based project incorpor
 
 ### Advanced Recommendation Algorithm:
 
-- Implemented a sophisticated algorithm for precise stream recommendations tailored to individual user preferences.
+- Implemented an algorithm for precise stream recommendations tailored to individual user preferences.
 
 ### CSV Input Processing:
 
